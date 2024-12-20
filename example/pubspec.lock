@@ -38,7 +38,7 @@ packages:
     description:
       path: "packages/connectivity_plus/connectivity_plus"
       ref: main
-      resolved-ref: e63de61b40ed2f8080e1680b87bfc181e86bd57f
+      resolved-ref: "3f58a282bcbfd61a85517dddf02ccce1b0ad1797"
       url: "https://github.com/AnilSeeroo/plus_plugins.git"
     source: git
     version: "6.1.1"
